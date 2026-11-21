@@ -1,4 +1,4 @@
-# EIPsInsight
+LLM OVER SQL# EIPsInsight
 
 Observability + context + coordination for Ethereum standards. Explore EIPs, ERCs, RIPs, analytics, network upgrades, and governance insights.
 
