@@ -1,4 +1,4 @@
-# EIPsInsight — Active Tasks
+#LLM-SQL switch# EIPsInsight — Active Tasks
 
 > Audit baseline: June 2026.
 > Goal: Keep only pending work here; moved completed items to archive.
